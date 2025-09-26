@@ -25,3 +25,5 @@ O objetivo desta atividade foi compreender a arquitetura de 16 bits, o modelo de
 | **Indexação** | Endereçamento por byte; Ponteiros incrementam por 2 (para palavras). |
 
 ---
+## Link de acesso direto para o Relatório (Google Documentos)
+https://docs.google.com/document/d/17Tm7Weith3UF0iC3FEbKHOGl0xPjWLmKrsjN68zYwH0/edit?usp=sharing
